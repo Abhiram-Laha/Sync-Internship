@@ -19,7 +19,10 @@ The dataset consisted of `1376 images, 690 face images with masks and 686 withou
 
 ## 👀 ScreenShots
 
-
+<img src = "images/1.png">
+<img src = "images/2.png">
+<img src = "images/3.png">
+<img src = "images/4.png">
 
 
 <br>
