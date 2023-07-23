@@ -22,7 +22,9 @@ The dataset consisted of `1376 images, 690 face images with masks and 686 withou
 <img src = "images/1.png">
 <img src = "images/2.png">
 <img src = "images/3.png">
-<img src = "images/4.png">
+
+
+![demo](https://github.com/Abhiram-Laha/Sync-Internship/assets/90309476/24c55eb9-84b5-4f0d-8151-a582203d76b3)
 
 
 <br>
