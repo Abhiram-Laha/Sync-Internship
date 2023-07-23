@@ -9,3 +9,14 @@ It engages in conversations, provides information, and performs specific tasks.<
 By leveraging online Python and NLTK, you'll create a smart chatbot that mimics human-like interactions.<br><br>
 This project offers hands-on experience in `Python programming, NLP, and chatbot development`.<br>
 <br><br>
+
+
+## 📌 Task 2 - Face Mask Detection
+<br>
+
+Face mask detection is a computer vision task to identify whether a person is wearing a face mask or not in images or videos, crucial for enforcing mask-wearing policies. 
+
+<br>
+
+The dataset consisted of `1376 images, 690 face images with masks and 686 without masks`. 
+<br><br>
