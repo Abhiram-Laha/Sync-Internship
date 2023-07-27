@@ -20,3 +20,15 @@ Face mask detection is a computer vision task to identify whether a person is we
 
 The dataset consisted of `1376 images, 690 face images with masks and 686 without masks`. 
 <br><br>
+
+## 📌 Task 3 - Boston House Price Predictions
+<br>
+
+Boston House Price Predictions involve using data analysis and machine learning to forecast property prices in the Boston housing market, aiding buyers, sellers, and investors in making informed decisions.
+
+<br>
+
+The Boston housing dataset contains `506 observations and 14 variables`. The dataset contains missing values.
+
+
+<br><br>
