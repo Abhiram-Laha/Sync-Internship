@@ -32,3 +32,13 @@ The Boston housing dataset contains `506 observations and 14 variables`. The dat
 
 
 <br><br>
+
+## 📌 Task 4 - Sign Language Classification
+
+<br>
+
+Sign language classification uses `machine learning` to recognize and categorize sign language gestures, 
+enabling the conversion of signs into spoken or written language or `performing specific actions` based on their meanings.
+
+
+<br><br>
